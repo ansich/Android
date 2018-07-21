@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular Area</string>
+    <string name="lblLado1">lado 1 </string>
+    <string name="lblLado2">lado 2 </string>
+    <string name="lblResultado">Resultado </string>
+    <string name="btnCalcular">Calcular </string>
+
+
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcularArea</string>
+    <string name="enunc">Introduce area</string>
+    <string name="largo">Largo: </string>
+    <string name="ancho">Ancho: </string>
+    <string name="label_default_result"> Area incorrecta </string>
+    <string name="calcular">calcular</string>
+
+</resources>

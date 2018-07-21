@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de Grados</string>
+    <string name="celsius">Celsius: </string>
+    <string name="farenheit">Farenheit: </string>
+    <string name="calcular">calcular</string>
+    <string name="error">Error</string>
+    <string name="error2">Error</string>
+    <string name="v.i">Valor incorrecto</string>
+</resources>
